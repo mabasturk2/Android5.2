@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product_titles">
+        <item>RCA Voyager 7 Inch 16GB Tablet</item>
+        <item>2022 Apple iPad Air</item>
+        <item>HP Pavilion Gaming Desktop</item>
+    </string-array>
+    <string-array name="product_price">
+        <item>43.99</item>
+        <item>519.99</item>
+        <item>925.12</item>
+    </string-array>
+    <string-array name="product_image">
+        <item>@drawable/tablet</item>
+        <item>@drawable/ipad</item>
+        <item>@drawable/pc</item>
+    </string-array>
+    <string-array name="product_color">
+        <item>black</item>
+        <item>white</item>
+        <item>black</item>
+    </string-array>
+    <string-array name="product_desc">
+        <item>Introducing the RCA Voyager 7-inch Google Certified Tablet. Operating on Androids sweetest operating system yet, you can enjoy more of what the Google Play store has to offer. Share a smile with friends and family using the tablets front camera. Use the tablets built-in Bluetooth capability to connect and pair with compatible devices. Whether taking in a movie, playing a favorite game or surfing the Web, the RCA tablets quad-core processor and 16GB flash-storage surely wont disappoint.</item>
+        <item>10.9-inch Liquid Retina display with True Tone, P3 wide color, and an antireflective coating
+        Apple M1 chip with Neural Engine
+        12MP Wide camera
+        12MP Ultra Wide front camera with Center Stage
+        Up to 256GB of storage
+        Available in blue, purple, pink, starlight, and space gray
+        Stereo landscape speakers
+        Touch ID for secure authentication and Apple Pay
+        All-day battery life
+        5G capable
+        </item>
+        <item>GAME ON YOUR OWN TERMS – This potent PC keeps up with you and the games of tomorrow thanks to its powerful intervals, support for a second display, customizable LED lighting, seamless expansion, and easy upgrades
+        DURABLE AND STYLISH – Not only does this compact desktop tower perfectly fit in any space, but it’s been designed to last with 230 quality tests to its name (1)
+        HIGH-SPEED PERFORMANCE – Whether you are playing the latest games, designing the next skyscraper, or crunching scientific data, the AMD Ryzen 5300G desktop processor can handle it all, setting the bar for gamers and artists alike (2)
+        PHENOMENAL GRAPHICS – Your favorite game titles look incredible and will run at their highest-fidelity thanks to the power-efficiency AMD Radeon RX 5500 graphics card with 4 GB GDDR5 dedicated memory
+        MEMORY AND STORAGE – With 8 GB of RAM, everything from multitasking to playing games gets a performance boost (3); plus, with 512 GB of PCIe NVMe M.2 Solid State Drive storage, you’ll get up to 10x faster performance than a traditional hard drive (4) (5)
+        USB PORTS – Quickly and easily connect a second display, external storage drives, and all your accessories with 4 SuperSpeed USB Type-A and 1 SuperSpeed USB Type-C (6) ports on the front of this PC, and 4 USB 2.0 Type-A ports on the rear (7)
+        WINDOWS 11 HOME AND WARRANTY – From a rejuvenated Start menu to new ways to connect, the Windows 11 Pro OS is the place to think, express, and create in a natural way (8). Start every day with confidence with a 1-year limited warranty to protect your purchase
+        CONSISTENT WIRELESS EXPERIENCE – Stay connected to all your wireless accessories with the reliable Wi-Fi 5 (1x1) and Bluetooth (802.11a/b/g/n/ac) combo (9) (10). Work without interruption or spotty connectivity with an MU-MIMO-supported computer tower
+        MODERN ENTERTAINMENT – Turn your gaming setup into a movie theater with an HDMI out port for transmitting digital HD video and sound to an external display, plus all the necessary ports for immersive, 5.1 surround sound
+        MOUSE AND KEYBOARD – Start gaming right out of the gate with the included USB black wired keyboard and mouse combo
+        </item>
+    </string-array>
+</resources>
